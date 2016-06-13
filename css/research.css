@@ -1,0 +1,16 @@
+h1{
+  font-size:20pt;
+  text-align: center;
+  margin-top: 70px;
+}
+
+.solar{
+  margin-top: 50px;
+  margin-left:250px;
+  width: 50%;
+  border: 20px groove pink;
+}
+.text{
+  color: green;
+  font-style: italic;
+}
