@@ -4,13 +4,13 @@
 **Shokouh Farvid**
 
 ## Description
-it is include my background and my research achievements.
+It includes my background and my research achievements.
 
 ## Support and contact details
 
 Contact the authors at [farvid.sh@gmail.com]
 
-##open in browser: https://sherly789.github.io/Ping-Pong
+##open in browser: https://sherly789.github.io/Portfolio
 
 ## Technologies Used
 
