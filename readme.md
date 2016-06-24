@@ -10,7 +10,7 @@ It includes my background and my research achievements.
 
 Contact the authors at [farvid.sh@gmail.com]
 
-##open in browser: https://sherly789.github.io/Portfolio
+##open in browser: https://sherly789.github.io/Portfolio/
 
 ## Technologies Used
 
